@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "pd-pwa-2020",
+      "script": "npm run prod-build",
+      "watch": true,
+      "NODE_ENV": "production"
+    }
+  ]
+}

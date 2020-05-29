@@ -1,0 +1,43 @@
+.searchResultsFocus {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100% !important;
+  align-items: center;
+  margin-top: 1em;
+}
+
+.part-container {
+  background-color: #fefefe;
+  border: solid orange 3px;
+  border-radius: 0.5em;
+  width: 95% !important;
+  padding: 1.2em !important;
+}
+
+.img-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.part-title {
+}
+
+.part-data {
+}
+
+.extra-item-data {
+}
+
+.plusIcon {
+  color: rgb(83, 165, 83);
+  font-size: 1.5em;
+}
+
+.closeContainer {
+  margin: 1em;
+  font-size: 1em;
+  text-align: right;
+}
