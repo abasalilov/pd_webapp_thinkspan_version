@@ -4,13 +4,9 @@ Web App Version of Parts Detect Mobile App w/ DIY Services
 
 ## Getting Started
 
-git clone https://github.com/abasalilov/parts-detect-2020.git
+git clone https://github.com/abasalilov/pd_webapp_thinkspan_version.git
 
 ### Installing
-
-https://frontendmasters.com/books/front-end-handbook/2019/
-
-https://www.zeolearn.com/magazine/setup-react-windows
 
 git: https://www.atlassian.com/git/tutorials/install-git
 
