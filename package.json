@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@mobiscroll/react": "^4.9.0",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "crypto": "^1.0.1",
     "ebay-api": "^1.13.7",
     "ebay-oauth-nodejs-client": "^1.1.0",
